@@ -41,6 +41,7 @@
 [submodule "webconsole"]
 	path = webconsole
 	url = https://github.com/carlhus/webconsole.git
+	branch = feat/dual-steer
 [submodule "chf"]
 	path = NFs/chf
 	url = https://github.com/carlhus/chf.git
