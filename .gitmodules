@@ -1,48 +1,63 @@
 [submodule "amf"]
 	path = NFs/amf
 	url = https://github.com/carlhus/amf.git
+	branch = feat/dual-steer
 [submodule "ausf"]
 	path = NFs/ausf
 	url = https://github.com/carlhus/ausf.git
+	branch = feat/dual-steer
 [submodule "n3iwf"]
 	path = NFs/n3iwf
 	url = https://github.com/carlhus/n3iwf.git
+	branch = feat/dual-steer
 [submodule "nrf"]
 	path = NFs/nrf
 	url = https://github.com/carlhus/nrf.git
+	branch = feat/dual-steer
 [submodule "nssf"]
 	path = NFs/nssf
 	url = https://github.com/carlhus/nssf.git
+	branch = feat/dual-steer
 [submodule "pcf"]
 	path = NFs/pcf
 	url = https://github.com/carlhus/pcf.git
+	branch = feat/dual-steer
 [submodule "smf"]
 	path = NFs/smf
 	url = https://github.com/carlhus/smf.git
+	branch = feat/dual-steer
 [submodule "udm"]
 	path = NFs/udm
 	url = https://github.com/carlhus/udm.git
+	branch = feat/dual-steer
 [submodule "udr"]
 	path = NFs/udr
 	url = https://github.com/carlhus/udr.git
+	branch = feat/dual-steer
 [submodule "upf"]
 	path = NFs/upf
 	url = https://github.com/carlhus/go-upf.git
+	branch = feat/dual-steer
 [submodule "webconsole"]
 	path = webconsole
 	url = https://github.com/carlhus/webconsole.git
 [submodule "chf"]
 	path = NFs/chf
 	url = https://github.com/carlhus/chf.git
+	branch = feat/dual-steer
 [submodule "tngf"]
 	path = NFs/tngf
 	url = https://github.com/carlhus/tngf.git
+	branch = feat/dual-steer
 [submodule "NFs/nef"]
 	path = NFs/nef
 	url = https://github.com/carlhus/nef.git
+	branch = feat/dual-steer
 [submodule "NFs/bsf"]
 	path = NFs/bsf
 	url = https://github.com/carlhus/bsf.git
+	branch = feat/dual-steer
 [submodule "NFs/scp"]
 	path = NFs/scp
 	url = https://github.com/carlhus/scp.git
+	branch = feat/dual-steer
